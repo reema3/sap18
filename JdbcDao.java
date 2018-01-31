@@ -35,6 +35,7 @@ public class JdbcDao implements IDao {
 	JdbcDao(){
 		System.out.println("JdbcDao cons");
 	}
+	public meth(){}
 	@Override
 	public List<Emp> getEmployee() {
 		List<Emp>lst=new ArrayList<Emp>();
